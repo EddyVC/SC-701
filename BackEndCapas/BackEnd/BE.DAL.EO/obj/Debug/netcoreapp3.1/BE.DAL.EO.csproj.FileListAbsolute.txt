@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\bin\Debug\netcoreapp3.1\BE.DAL.EO.deps.json
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\bin\Debug\netcoreapp3.1\BE.DAL.EO.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\bin\Debug\netcoreapp3.1\BE.DAL.EO.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\bin\Debug\netcoreapp3.1\BE.DAL.EO.dll
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\bin\Debug\netcoreapp3.1\BE.DAL.EO.pdb
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\obj\Debug\netcoreapp3.1\BE.DAL.EO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\obj\Debug\netcoreapp3.1\BE.DAL.EO.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\obj\Debug\netcoreapp3.1\BE.DAL.EO.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\obj\Debug\netcoreapp3.1\BE.DAL.EO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\obj\Debug\netcoreapp3.1\BE.DAL.EO.dll
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\obj\Debug\netcoreapp3.1\BE.DAL.EO.pdb
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\obj\Debug\netcoreapp3.1\BE.DAL.EO.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL.EO\obj\Debug\netcoreapp3.1\BE.DAL.EO.csproj.AssemblyReference.cache
