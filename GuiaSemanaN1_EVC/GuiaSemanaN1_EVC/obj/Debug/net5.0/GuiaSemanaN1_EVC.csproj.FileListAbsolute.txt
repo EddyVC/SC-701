@@ -22,7 +22,6 @@ C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Deb
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\GuiaSemanaN1_EVC.TagHelpers.input.cache
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\GuiaSemanaN1_EVC.TagHelpers.output.cache
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\GuiaSemanaN1_EVC.RazorCoreGenerate.cache
-C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
@@ -38,10 +37,8 @@ C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Deb
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\GuiaSemanaN1_EVC.pdb
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\GuiaSemanaN1_EVC.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\GuiaSemanaN1_EVC.csproj.CopyComplete
-C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Home\Products.cshtml.g.cs
-C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\GuiaSemanaN1_EVC.csproj.AssemblyReference.cache
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Products\Contact.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Products\Products.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Details\About.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\Razor\Views\Details\Reseñas.cshtml.g.cs
+C:\Users\Admin\Documents\GitHub\SC-701\GuiaSemanaN1_EVC\GuiaSemanaN1_EVC\obj\Debug\net5.0\GuiaSemanaN1_EVC.csproj.AssemblyReference.cache
