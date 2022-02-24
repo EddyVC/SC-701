@@ -30,9 +30,9 @@ namespace API
                 options.UseSqlServer(
                 Configuration.GetConnectionString("GoodConnection")));
 
+            // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddControllers();
 
-            // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen();
         }
 
