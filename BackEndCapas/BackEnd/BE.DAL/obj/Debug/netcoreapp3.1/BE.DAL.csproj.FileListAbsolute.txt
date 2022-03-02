@@ -10,3 +10,11 @@ C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\obj\Debug\net
 C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.runtimeconfig.json
 C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.runtimeconfig.dev.json
 C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.DO.dll
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.EF.dll
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.Repository.dll
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.DO.pdb
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.Repository.pdb
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\bin\Debug\netcoreapp3.1\BE.DAL.EF.pdb
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\BackEnd\BE.DAL\obj\Debug\netcoreapp3.1\BE.DAL.csproj.CopyComplete

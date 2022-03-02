@@ -33,7 +33,7 @@ namespace BE.API
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddControllers();
 
-            services.AddControllers();
+            services.AddSwaggerGen();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
