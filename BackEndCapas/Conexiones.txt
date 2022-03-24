@@ -1,0 +1,3 @@
+Scaffold-DbContext "Server=DESKTOP-18BMGEL\SQLEXPRESS;Database=Northwind;Trusted_Connection=True;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+"GoodConnection": "Server=DESKTOP-18BMGEL\SQLEXPRESS;Database=Northwind;Trusted_Connection=True;MultipleActiveResultSets=true"
