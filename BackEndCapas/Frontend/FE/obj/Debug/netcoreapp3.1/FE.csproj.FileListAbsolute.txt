@@ -46,3 +46,5 @@ C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\Frontend\FE\obj\Debug\netcor
 C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\Frontend\FE\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\Frontend\FE\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
 C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\Frontend\FE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\Frontend\FE\obj\Debug\netcoreapp3.1\FE.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\SC-701\BackEndCapas\Frontend\FE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
